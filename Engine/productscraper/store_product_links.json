@@ -1,0 +1,44 @@
+[
+    {
+        "amazon": {
+            "mobile_phones": "https://www.amazon.com/s?rh=n%3A7072561011&fs=true&ref=lp_7072561011_sar",
+            "computers": {
+                "desktops": "https://www.amazon.com/s?rh=n%3A565098&fs=true&ref=lp_565098_sar",
+                "laptops": "https://www.amazon.com/s?rh=n%3A565108&fs=true&ref=lp_565108_sar",
+                "tablets": "https://www.amazon.com/s?rh=n%3A1232597011&fs=true&ref=lp_1232597011_sar"
+            }
+        },
+        "bestbuy": {
+            "mobile_phones": "https://www.bestbuy.com/site/mobile-cell-phones/all-cell-phones/pcmcat1625163553254.c?id=pcmcat1625163553254",
+            "computers": {
+                "desktops": "https://www.bestbuy.com/site/desktop-computers/all-desktops/pcmcat143400050013.c?id=pcmcat143400050013",
+                "laptops": "https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c?id=pcmcat138500050001",
+                "tablets": "https://www.bestbuy.com/site/ipad-tablets-ereaders/tablets/pcmcat209000050008.c?id=pcmcat209000050008"
+            }
+        },
+        "walmart": {
+            "mobile_phones": "https://www.walmart.com/browse/cell-phones/all-cell-phones/1105910_5296594",
+            "computers": {
+                "desktops": "https://www.walmart.com/browse/electronics/all-desktop-computers/3944_1089430_132982_1231618",
+                "laptops": "https://www.walmart.com/browse/electronics/all-laptop-computers/3944_1089430_3951_132960",
+                "tablets": "https://www.walmart.com/browse/electronics/all-tablets/3944_1078524_1078084"
+            }
+        },
+        "ebay": {
+            "mobile_phones": "https://www.ebay.com/b/Cell-Phones-Smart-Watches-Accessories/15032/bn_1865441",
+            "computers": {
+                "desktops": "https://www.ebay.com/b/PC-Desktops-All-In-One-Computers/179/bn_661752",
+                "laptops": "https://www.ebay.com/b/PC-Laptops-Netbooks/177/bn_317584",
+                "tablets": "https://www.ebay.com/b/Tablets-eReaders/171485/bn_320042"
+            }
+        }
+    }
+]
+
+
+
+
+
+
+
+
