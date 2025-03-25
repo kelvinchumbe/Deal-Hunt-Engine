@@ -2,9 +2,9 @@ from ..utils.utils import  (
     get_url,
     get_image_url,
     validate_url
-
 )
-
+from bs4 import BeautifulSoup
+from lxml import etree
 
 class AmazonScraper():
     def __init__(self, url):
@@ -12,8 +12,8 @@ class AmazonScraper():
 
     def extract_product_listings(self):
         """Extract product listings """
-        if validate_url(self.url):
-            response = get_url(self.url)
+        page_text = get_url(self.url)
+
 
 
 
